@@ -1,0 +1,3 @@
+[submodule "s06_node_file_io_planets_project"]
+ path = s06_node_file_io_planets_project
+ url = git@github.com:MrTrukiny/CND-S06_planets_project.git
