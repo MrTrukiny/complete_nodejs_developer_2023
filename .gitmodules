@@ -1,3 +1,6 @@
 [submodule "s06_node_file_io_planets_project"]
  path = s06_node_file_io_planets_project
  url = git@github.com:MrTrukiny/CND-S06_planets_project.git
+[submodule "s07_node_http_web_servers"]
+	path = s07_node_http_web_servers
+	url = git@github.com:MrTrukiny/CND-S07_web_servers_with_nodejs.git
